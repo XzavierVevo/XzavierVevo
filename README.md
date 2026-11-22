@@ -1,22 +1,31 @@
-### AI Marketing Automation | YouTube Creator
+### I make ads and videos, and the machines that make them for me.
 
-I build **AI agents and loops that make, test and ship marketing creative at scale**: caption factories, hook generators, auto-editors and ad-intel scrapers that run every day without anyone touching them. I also run the YouTube channels they were built for ([@gresells](https://www.youtube.com/@gresells), ~300K views, top video 86K).
+Most marketing teams run out of **ads to test** long before they run out of budget. I build systems that let one person put out the volume of a whole creative team: hundreds of ad variations from the same footage, YouTube videos edited without an editor, and fresh customer lists every morning.
 
-Need to scale ad creative or ad production? Let's talk. → **[portfolio](https://xzaviervevo.github.io)**
+**→ [See the portfolio](https://xzaviervevo.github.io)**
 
 ---
 
-| Project | What it does | |
-|---|---|---|
-| **[creator-studio](https://github.com/XzavierVevo/creator-studio)** | AI video editor that replaced my human editor: raw footage in, finished YouTube video + Shorts out, self-reviewed frame by frame. Includes the **DHgate review auto-editor** | `python` `ffmpeg` `claude-code` |
-| **[tiktok-caption-engine](https://github.com/XzavierVevo/tiktok-caption-engine)** | N videos × M hooks → N·M ready-to-post TikTok creatives, run by an AI agent and exposed over MCP | `fastapi` `cloudflare` `mcp` |
-| **[blastoff-growth-automation](https://github.com/XzavierVevo/blastoff-growth-automation)** | Daily pipeline: companies hiring for ads/creators → their Google + Meta ads → decision-makers → Clay outreach | `typescript` `workers` `clay` |
-| **[ad-hook-machine](https://github.com/XzavierVevo/ad-hook-machine)** | One number in, a Meta campaign out: VoC scraping → Claude hooks → rendered images → bulk upload | `python` `claude` `meta-ads` |
-| **[top5-clipper-bot](https://github.com/XzavierVevo/top5-clipper-bot)** | Batch-renders branded 9:16 Shorts for clipping campaigns with an AI director | `python` `gemini` `ffmpeg` |
-| **[google-maps-tam-scraper](https://github.com/XzavierVevo/google-maps-tam-scraper)** | Every business for a keyword across every US county, deduped, with no paid API | `typescript` `crawlee` |
-| **[ads-input-recorder](https://github.com/XzavierVevo/ads-input-recorder)** | Record campaign setup in an ads dashboard once, replay it forever | `chrome-mv3` |
-| **[autohotkey-automation](https://github.com/XzavierVevo/autohotkey-automation)** | One key per tool, mouse dictation and a watchdog for running many sessions at once | `ahk-v2` `c#` |
+**What I can do for you**
 
-**Closed source, demo on request:** Automated Websites, which finds local businesses with no website, builds each one a preview site and emails the owner a claim link.
+- **Turn your footage into hundreds of ads.** 8 clips × 40 hooks = 320 ready-to-post TikTok ads in one run, so you find winning angles in days.
+- **Write hooks that don't sound like everyone else's.** They're built from your customers' own words and checked against what competitors already run, then delivered as finished Meta ad images.
+- **Make YouTube videos people watch.** I've made 22 videos that pulled ~300,000 views (best: 86,000), and my own system edits them.
+- **Find your next customers automatically.** Every morning: companies already spending on ads, the person who decides, loaded into your outreach tool.
+- **Kill repetitive work.** Campaign setup, clip cutting, list building: done once by a person, then repeated by a machine.
 
-<sub>No secrets live in these repos. Keys are loaded from git-ignored `.env` / `.dev.vars` files or Cloudflare secrets, and each project ships an example file.</sub>
+**What I've built**
+
+| | What it does for you |
+|---|---|
+| [TikTok Ad Factory](https://github.com/XzavierVevo/tiktok-caption-engine) | Puts every hook on every video in TikTok's caption style: hundreds of ad variations per batch, with hooks written by AI |
+| [Ad Hook Machine](https://github.com/XzavierVevo/ad-hook-machine) | Say how many ads you want and what you sell, and get back the hooks, the images and the Meta upload |
+| [YouTube channel](https://www.youtube.com/@gresells) | DHgate reviews and reselling guides: ~300K views, top video 86K |
+| [Creator Studio](https://github.com/XzavierVevo/creator-studio) | Raw recording in, finished video and Shorts out. It checks its own work and learns from every note |
+| [DHgate Review Auto-Fixer](https://github.com/XzavierVevo/creator-studio#the-dhgate-review-auto-editor) | Fixes the same recurring problems on every review automatically: wrong mic, dead air, prices viewers couldn't see |
+| [Prospect Finder (Blastoff)](https://github.com/XzavierVevo/blastoff-growth-automation) | Fresh daily list of companies already running ads and hiring for creator roles, plus the decision-makers |
+| Automated Websites *(private, demo on request)* | Finds businesses with no website, builds them one and pitches it, all without me in the loop |
+| [Shorts Clipper](https://github.com/XzavierVevo/top5-clipper-bot) | A folder of clips becomes a batch of branded vertical Shorts |
+| [Local Business List Builder](https://github.com/XzavierVevo/google-maps-tam-scraper) | Every business of a type in any state, so you know your whole market |
+| [Campaign Setup Recorder](https://github.com/XzavierVevo/ads-input-recorder) | Set up a campaign once, repeat it across accounts in one click |
+| [Desktop Shortcuts](https://github.com/XzavierVevo/autohotkey-automation) | One key per tool, mouse dictation and auto-restarts. I automate my own work too |
