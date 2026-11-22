@@ -1,31 +1,25 @@
-### I make ads and videos, and the machines that make them for me.
+### I make ads and videos. I build AI that makes them for me.
 
-Most marketing teams run out of **ads to test** long before they run out of budget. I build systems that let one person put out the volume of a whole creative team: hundreds of ad variations from the same footage, YouTube videos edited without an editor, and fresh customer lists every morning.
+Most teams run out of ads to test before they run out of money. I build AI that makes hundreds of ads, edits videos and finds new customers. So one person can do the work of a whole team.
 
-**→ [See the portfolio](https://xzaviervevo.github.io)**
+**→ [See my portfolio, with a demo of every project](https://xzaviervevo.github.io)**
 
 ---
 
-**What I can do for you**
+**What I have done**
 
-- **Turn your footage into hundreds of ads.** 8 clips × 40 hooks = 320 ready-to-post TikTok ads in one run, so you find winning angles in days.
-- **Write hooks that don't sound like everyone else's.** They're built from your customers' own words and checked against what competitors already run, then delivered as finished Meta ad images.
-- **Make YouTube videos people watch.** I've made 22 videos that pulled ~300,000 views (best: 86,000), and my own system edits them.
-- **Find your next customers automatically.** Every morning: companies already spending on ads, the person who decides, loaded into your outreach tool.
-- **Kill repetitive work.** Campaign setup, clip cutting, list building: done once by a person, then repeated by a machine.
+- Sent **50,000+ cold emails** for Blastoff Media and closed **22+ clipping deals** worth **$10,000+ each**
+- Got **289,000+ views** on my reselling and DHgate YouTube videos ([@gresells](https://www.youtube.com/@gresells))
+- My AI built **115 websites** for local businesses by itself
 
-**What I've built**
+**What I built**
 
-| | What it does for you |
-|---|---|
-| [TikTok Ad Factory](https://github.com/XzavierVevo/tiktok-caption-engine) | Puts every hook on every video in TikTok's caption style: hundreds of ad variations per batch, with hooks written by AI |
-| [Ad Hook Machine](https://github.com/XzavierVevo/ad-hook-machine) | Say how many ads you want and what you sell, and get back the hooks, the images and the Meta upload |
-| [YouTube channel](https://www.youtube.com/@gresells) | DHgate reviews and reselling guides: ~300K views, top video 86K |
-| [Creator Studio](https://github.com/XzavierVevo/creator-studio) | Raw recording in, finished video and Shorts out. It checks its own work and learns from every note |
-| [DHgate Review Auto-Fixer](https://github.com/XzavierVevo/creator-studio#the-dhgate-review-auto-editor) | Fixes the same recurring problems on every review automatically: wrong mic, dead air, prices viewers couldn't see |
-| [Prospect Finder (Blastoff)](https://github.com/XzavierVevo/blastoff-growth-automation) | Fresh daily list of companies already running ads and hiring for creator roles, plus the decision-makers |
-| Automated Websites *(private, demo on request)* | Finds businesses with no website, builds them one and pitches it, all without me in the loop |
-| [Shorts Clipper](https://github.com/XzavierVevo/top5-clipper-bot) | A folder of clips becomes a batch of branded vertical Shorts |
-| [Local Business List Builder](https://github.com/XzavierVevo/google-maps-tam-scraper) | Every business of a type in any state, so you know your whole market |
-| [Campaign Setup Recorder](https://github.com/XzavierVevo/ads-input-recorder) | Set up a campaign once, repeat it across accounts in one click |
-| [Desktop Shortcuts](https://github.com/XzavierVevo/autohotkey-automation) | One key per tool, mouse dictation and auto-restarts. I automate my own work too |
+1. **[TikTok Ad Agent](https://xzaviervevo.github.io/projects/tiktok-ad-agent.html)**: An AI helper that sets up TikTok ad accounts and makes hundreds of ads for any offer.
+2. **[Cold Email Machine for Blastoff Media](https://xzaviervevo.github.io/projects/blastoff-cold-email.html)**: Finds brands with money to spend, finds the boss, and AI writes every email. 50,000+ sent, 22+ deals.
+3. **[Facebook Hook Machine](https://xzaviervevo.github.io/projects/facebook-hook-machine.html)**: The same idea, but for Facebook. Tell it what you sell, and it makes the ads.
+4. **[Creator Studio](https://xzaviervevo.github.io/projects/creator-studio.html)**: I drop in a long, messy video and it hands back a short, finished one.
+5. **[DHgate Video Auto-Fixer](https://xzaviervevo.github.io/projects/dhgate-auto-fixer.html)**: Fixes the same problems in every review video by itself.
+6. **[Automated Websites](https://xzaviervevo.github.io/projects/automated-websites.html)**: Finds shops with no website, builds them one and asks if they want it.
+7. **[Business List Builder](https://xzaviervevo.github.io/projects/list-builder.html)**: Type a kind of business and a state, and get every one of them.
+8. **[Campaign Setup Recorder](https://xzaviervevo.github.io/projects/campaign-recorder.html)**: Set up an ad campaign once, then do it again with one click.
+9. **[Desktop Shortcuts](https://xzaviervevo.github.io/projects/desktop-shortcuts.html)**: One key opens any tool I use.
