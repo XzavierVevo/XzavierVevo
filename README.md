@@ -12,11 +12,7 @@ Ready to scale your marketing and beat everyone in your market? Let's talk.
 
 ---
 
-**What I have done**
-
-- Sent **50,000+ cold emails** for Blastoff Media and closed **22+ clipping deals** worth **$10,000+ each**
-- Got **3.1 million+ views** on 6 YouTube channels I made (300 videos)
-- My AI built **115 websites** for local businesses by itself
+**My YouTube channels:** Xzavier, G Resells, Gs QCs, Xzavier's Hustle, Not G and Gibson's Channels. I built and run all of them myself.
 
 **What I built**
 
