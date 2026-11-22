@@ -1,6 +1,10 @@
-### I make ads and videos. I build AI that makes them for me.
+### I know how to use AI to scale YouTube videos and ads, so I have 100x the output of one person.
 
-Most teams run out of ads to test before they run out of money. I build AI that makes hundreds of ads for TikTok, Facebook, Instagram, Google and YouTube. It edits videos and finds new customers too. So one person can do the work of a whole team.
+Imagine waking up tomorrow to me having uploaded five high-quality YouTube videos for your company this week, and created over 500 unique ads that each test every possible angle we could have.
+
+AI is now the meta of the internet, and if you don't get in front of it, you're going to be left behind. **That's what I do for companies: I put you in front.**
+
+Ready to scale your marketing and beat everyone in your market? Let's talk.
 
 📧 **gibsonaust@gmail.com**
 
