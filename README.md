@@ -12,7 +12,7 @@ Ready to scale your marketing and beat everyone in your market? Let's talk.
 
 ---
 
-**My YouTube channels:** Xzavier, G Resells, Gs QCs, Xzavier's Hustle, Not G and Gibson's Channels. I built and run all of them myself.
+**My YouTube channels:** [Xzavier](https://www.youtube.com/channel/UCcz4ieuTMwRpZ5fOMqcMlfw), [G Resells](https://www.youtube.com/channel/UCNlZl-oOO04j54wbOWRdp_g), [Gs QCs](https://www.youtube.com/channel/UCtVR4IEMn5bH8cNMtTy6z-A), [Xzavier's Hustle](https://www.youtube.com/channel/UCWMDdaLf-124mqekzalFrRQ), [Not G](https://www.youtube.com/channel/UCTQwmVcN1br8XbHu2DR68AQ), [Gibson's Channels](https://www.youtube.com/channel/UCXkQRGirjr3OSulvilvZSkA). I built and run all of them myself.
 
 **What I built**
 
